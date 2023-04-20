@@ -1,2 +1,0 @@
-dragandbot_common/dnb_msgs:pylon-ros-camera/camera_control_msgs:pylon-ros-camera/pylon_camera
--DCATKIN_DEVEL_PREFIX=/home/sj/code/car_time_sync/devel -DCMAKE_INSTALL_PREFIX=/home/sj/code/car_time_sync/install -G Unix Makefiles

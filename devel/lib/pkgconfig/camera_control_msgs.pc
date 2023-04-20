@@ -1,8 +1,0 @@
-prefix=/home/sj/code/car_time_sync/devel
-
-Name: camera_control_msgs
-Description: Description of camera_control_msgs
-Version: 0.2.5
-Cflags: -I/home/sj/code/car_time_sync/devel/include
-Libs: -L${prefix}/lib 
-Requires: actionlib_msgs sensor_msgs message_runtime
