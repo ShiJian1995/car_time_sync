@@ -1,0 +1,19 @@
+(cl:defpackage dnb_msgs-msg
+  (:use )
+  (:export
+   "<ARGUMENT>"
+   "ARGUMENT"
+   "<COMPONENTSTATUS>"
+   "COMPONENTSTATUS"
+   "<KETOPSTATUS>"
+   "KETOPSTATUS"
+   "<PROGRAM>"
+   "PROGRAM"
+   "<STRINGMULTIARRAY>"
+   "STRINGMULTIARRAY"
+   "<TOASTMESSAGE>"
+   "TOASTMESSAGE"
+   "<TOASTTRANSLATION>"
+   "TOASTTRANSLATION"
+  ))
+

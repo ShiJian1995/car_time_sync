@@ -1,0 +1,8 @@
+prefix=/home/sj/code/car_time_sync/devel
+
+Name: camera_basler
+Description: Description of camera_basler
+Version: 0.0.0
+Cflags: -I/home/sj/code/car_time_sync/src/camera_basler/include
+Libs: -L${prefix}/lib 
+Requires: cv_bridge image_geometry image_transport roscpp sensor_msgs
